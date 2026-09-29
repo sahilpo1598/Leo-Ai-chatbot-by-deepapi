@@ -1,0 +1,6 @@
+.env
+ai-chatbot/.env
+.venv/
+__pycache__/
+tempCodeRunnerFile.py
+.gradio/
